@@ -1,0 +1,17 @@
+C:\Users\edysu\OneDrive\Documentos\1S-2021\Compi2\[OLC2]Proyecto1_201709029\bin\Debug\netcoreapp3.1\[OLC2]Proyecto1_201709029.exe
+C:\Users\edysu\OneDrive\Documentos\1S-2021\Compi2\[OLC2]Proyecto1_201709029\bin\Debug\netcoreapp3.1\[OLC2]Proyecto1_201709029.deps.json
+C:\Users\edysu\OneDrive\Documentos\1S-2021\Compi2\[OLC2]Proyecto1_201709029\bin\Debug\netcoreapp3.1\[OLC2]Proyecto1_201709029.runtimeconfig.json
+C:\Users\edysu\OneDrive\Documentos\1S-2021\Compi2\[OLC2]Proyecto1_201709029\bin\Debug\netcoreapp3.1\[OLC2]Proyecto1_201709029.runtimeconfig.dev.json
+C:\Users\edysu\OneDrive\Documentos\1S-2021\Compi2\[OLC2]Proyecto1_201709029\bin\Debug\netcoreapp3.1\[OLC2]Proyecto1_201709029.dll
+C:\Users\edysu\OneDrive\Documentos\1S-2021\Compi2\[OLC2]Proyecto1_201709029\bin\Debug\netcoreapp3.1\[OLC2]Proyecto1_201709029.pdb
+C:\Users\edysu\OneDrive\Documentos\1S-2021\Compi2\[OLC2]Proyecto1_201709029\bin\Debug\netcoreapp3.1\Irony.dll
+C:\Users\edysu\OneDrive\Documentos\1S-2021\Compi2\[OLC2]Proyecto1_201709029\obj\Debug\netcoreapp3.1\[OLC2]Proyecto1_201709029.csprojAssemblyReference.cache
+C:\Users\edysu\OneDrive\Documentos\1S-2021\Compi2\[OLC2]Proyecto1_201709029\obj\Debug\netcoreapp3.1\_OLC2_Proyecto1_201709029.Form1.resources
+C:\Users\edysu\OneDrive\Documentos\1S-2021\Compi2\[OLC2]Proyecto1_201709029\obj\Debug\netcoreapp3.1\[OLC2]Proyecto1_201709029.csproj.GenerateResource.cache
+C:\Users\edysu\OneDrive\Documentos\1S-2021\Compi2\[OLC2]Proyecto1_201709029\obj\Debug\netcoreapp3.1\[OLC2]Proyecto1_201709029.AssemblyInfoInputs.cache
+C:\Users\edysu\OneDrive\Documentos\1S-2021\Compi2\[OLC2]Proyecto1_201709029\obj\Debug\netcoreapp3.1\[OLC2]Proyecto1_201709029.AssemblyInfo.cs
+C:\Users\edysu\OneDrive\Documentos\1S-2021\Compi2\[OLC2]Proyecto1_201709029\obj\Debug\netcoreapp3.1\[OLC2]Proyecto1_201709029.csproj.CoreCompileInputs.cache
+C:\Users\edysu\OneDrive\Documentos\1S-2021\Compi2\[OLC2]Proyecto1_201709029\obj\Debug\netcoreapp3.1\[OLC2]Proyecto1_201709029.csproj.CopyComplete
+C:\Users\edysu\OneDrive\Documentos\1S-2021\Compi2\[OLC2]Proyecto1_201709029\obj\Debug\netcoreapp3.1\[OLC2]Proyecto1_201709029.dll
+C:\Users\edysu\OneDrive\Documentos\1S-2021\Compi2\[OLC2]Proyecto1_201709029\obj\Debug\netcoreapp3.1\[OLC2]Proyecto1_201709029.pdb
+C:\Users\edysu\OneDrive\Documentos\1S-2021\Compi2\[OLC2]Proyecto1_201709029\obj\Debug\netcoreapp3.1\[OLC2]Proyecto1_201709029.genruntimeconfig.cache
